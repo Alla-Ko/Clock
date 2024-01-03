@@ -1,0 +1,12 @@
+C:\Alla\C#_proj\WindowsFormsApp_clock\bin\Debug\WindowsFormsApp_clock.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_clock\bin\Debug\WindowsFormsApp_clock.exe
+C:\Alla\C#_proj\WindowsFormsApp_clock\bin\Debug\WindowsFormsApp_clock.pdb
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.exe
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.pdb
+C:\Alla\C#_proj\WindowsFormsApp_clock\obj\Debug\WindowsFormsApp_clock.Resource1.resources
